@@ -5,8 +5,8 @@ require_relative "./vehicle.rb" #allows us to access
 
 class Car < Vehicle #here we are defining the class.
                     #The < inherits Car from Vehicle
-                    #and inherits all of its methods. 
-  def go 
+                    #and inherits all of its methods.
+  def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
