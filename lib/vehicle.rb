@@ -8,7 +8,7 @@ class Vehicle #parent class
   end
 
   def go #these methods are describing common vehicle behavior
-    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+    "vrrrrrrrooom!"
   end
 
   def fill_up_tank
