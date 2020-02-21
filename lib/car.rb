@@ -2,5 +2,5 @@
 
 require_relative "./vehicle.rb" #allows us to access the parent class
 
-class Car < Vehicle #here we are defining the class
+class Car < Vehicle #here we are defining the class. The < inherits Car from Vehicle 
 end
