@@ -14,3 +14,5 @@ class Vehicle #parent class
   def fill_up_tank
     "filling up!"
   end
+
+end
