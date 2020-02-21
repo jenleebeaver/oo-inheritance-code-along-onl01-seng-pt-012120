@@ -1,3 +1,3 @@
-class Vehicle
+class Vehicle #parent class
 
 end
