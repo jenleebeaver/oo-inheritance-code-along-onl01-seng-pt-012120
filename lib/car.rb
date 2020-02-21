@@ -8,5 +8,5 @@ class Car < Vehicle #here we are defining the class.
                     #and inherits all of its methods.
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
-  end
+  end #this code overwrites the parent code 
 end
