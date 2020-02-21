@@ -7,7 +7,7 @@ class Vehicle #parent class
     @wheel_number = wheel_number
   end
 
-  def go
+  def go #these methods are describing common vehicle behavior
     "vrrrrrrrooom!"
   end
 
